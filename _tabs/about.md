@@ -4,5 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+自分だけの世界観を持つ、世界で唯一のゲームを一人で製作することが夢です。<br>
+プログラミングは勿論、ストーリー、キャラクター、背景、音楽、後からの支援等<br>
+様々な技術が必要になりますが、いつかは叶えられると思っています。
