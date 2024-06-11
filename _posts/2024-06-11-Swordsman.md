@@ -1,6 +1,6 @@
 ---
-title: "[ゲーム] Swordsman"
-excerpt: "Unity Swordsman -Log Bridge-"
+title: "Swordsman"
+excerpt: "[ゲーム] Unity Swordsman -Log Bridge-"
 date: 2024-06-11 12:00:00 +0900
 last_modified_at: 2024-06-11 12:00:00 +0900
 writer: csm10030

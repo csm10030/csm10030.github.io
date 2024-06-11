@@ -1,6 +1,6 @@
 ---
-title: "[ブログ] GithubPagesBlog"
-excerpt: "Github Pages Blog"
+title: "GithubPagesBlog"
+excerpt: "[ブログ] Github Pages Blog"
 date: 2024-06-11 12:30:00 +0900
 last_modified_at: 2024-06-11 12:30:00 +0900
 writer: csm10030

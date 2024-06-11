@@ -1,6 +1,6 @@
 ---
-title: "[電卓] Calculator"
-excerpt: "Angular Calculator"
+title: "Calculator"
+excerpt: "[電卓] Angular Calculator"
 date: 2024-06-11 11:30:00 +0900
 last_modified_at: 2024-06-11 11:30:00 +0900
 writer: csm10030
