@@ -1,0 +1,30 @@
+---
+title: "깃허브 페이지 블로그"
+excerpt: "[Blog] 깃허브 페이지 블로그"
+date: 2024-06-11 12:30:00 +0900
+last_modified_at: 2024-09-02 21:00:00 +0900
+writer: csm10030
+categories: [GitHub, GitHub Pages Blog]
+tags: [GitHub Pages, Jekyll(Ruby)]
+---
+6월 즈음 만들었지만 수정하고 싶은 부분이 있어서 리포지토리 삭제 후 재업로드<BR>
+<BR>
+개발을 하면서 알게 되었던 사실들을 간단하게 다시 찾아볼 수 있는 개인 페이지,<BR>
+개인적으로 개발하는 것들의 진행상황을 적어놓을 수 있는 블로그,<BR>
+그리고 남들은 다 있다는 포트폴리오용 사이트의 필요성을 느껴 만들게 되었다.<BR>
+<BR>
+AWS를 사용해서 처음부터 끝까지 원하는대로 만든다거나<BR>
+Jekyll을 테마를 직접 만드는 방법도 있겠지만,<BR>
+당장은 다른 것들을 더 우선시 하고 싶었기 때문에 깃허브 페이지를 이용했다.<BR>
+어차피 가져다 쓰는 것이라 금방 만들 수 있을 것이라고 생각했었지만,<BR>
+온갖 에러를 만나며 15시간, 총 일주일이라는 시간이 걸렸다.<BR>
+<BR>
+빠른 시일 내에 댓글기능과 광고기능을 추가해 볼 생각이다.<BR>
+<BR>
+도움이 된 곳<BR>
+<BR>
+<a href='https://devpro.kr/posts/Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-(1)/' target='_blank'>프로의 개발일지<BR>
+Github 블로그 만들기 (1)</a><BR>
+<BR>
+<a href='https://velog.io/@minji-o-j/jekyll-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0' target='_blank'>minji-o-j.log<BR>
+jekyll 오류 해결 (부제: github 블로그 만들기)</a>
