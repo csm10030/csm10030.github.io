@@ -1,0 +1,22 @@
+---
+title: "댓글 테마 변경"
+excerpt: "[Blog] 댓글 테마 변경"
+date: 2024-09-09 20:55:23 +0900
+last_modified_at: 2024-09-09 20:55:23 +0900
+writer: csm10030
+categories: [GitHub, GitHub Pages Blog]
+tags: [Hits]
+---
+<BR>
+배경색이 PC에서는 블랙 모바일에서는 화이트라는 것을 잊고 있었는데,<BR>
+추가한 댓글 기능을 확인하면서 모바일에서는 하얀 배경에 검은 코멘트창이라는 것을 깨달았다.<BR>
+배경색에 따라 달라지는 스타일을 줄 수도 있겠지만 일단은 그나마 어울리는 깃허브 라이트로 변경했다.<BR>
+<BR>
+방문자수를 카운트 하는 기능도 추가해볼까 해서 Hits라는 것을 사용해보았지만,<BR>
+페이지를 이동하거나 새로고침하는 것 만으로도 카운트가 올라가는 것이<BR>
+내가 원하던 기능이 아니었다.<BR>
+<BR>
+도움이 된 곳<BR>
+<BR>
+<a href='https://searching-fundamental.tistory.com/52' target='_blank'>searching-fundamental<BR>
+[Git Page] Git 블로그 방문자 수, 조회수 기능 추가하기; Jekyll, Minimal Mistakes</a>

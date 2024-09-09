@@ -5,7 +5,7 @@ date: 2024-09-08 22:12:00 +0900
 last_modified_at: 2024-09-08 22:12:00 +0900
 writer: csm10030
 categories: [GitHub, GitHub Pages Blog]
-tags: [GitHub Pages, Jekyll(Ruby), utterances]
+tags: [utterances]
 ---
 사이드 화면의 카테고리 접기/펴기가 가능하고 포스트 갯수가 표시되는<BR>
 보통의 블로그와 같은 테마를 찾고 적용해보느라 거의 이틀을 보냈지만,<BR>
