@@ -17,6 +17,5 @@ tags: [Hits]
 내가 원하던 기능이 아니었다.<BR>
 <BR>
 도움이 된 곳<BR>
-<BR>
 <a href='https://searching-fundamental.tistory.com/52' target='_blank'>searching-fundamental<BR>
 [Git Page] Git 블로그 방문자 수, 조회수 기능 추가하기; Jekyll, Minimal Mistakes</a>

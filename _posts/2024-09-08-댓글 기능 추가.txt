@@ -22,6 +22,5 @@ utterances를 이용해 적용하는 것이 생각보다 정말 쉽고 빨라서
 당분간은 시간이 남으면 블로그를 조금씩 커스텀해 볼 생각이다.<BR>
 <BR>
 도움이 된 곳<BR>
-<BR>
 <a href='https://www.irgroup.org/posts/utternace-comments-system/' target='_blank'>하얀눈길 블로그<BR>
 Jekyll 테마에 utterances 댓글 연동하기</a>

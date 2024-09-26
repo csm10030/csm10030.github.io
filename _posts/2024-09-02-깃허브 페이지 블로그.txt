@@ -22,9 +22,7 @@ Jekyll 테마를 직접 만드는 방법도 있겠지만,<BR>
 빠른 시일 내에 댓글기능과 광고기능을 추가해 볼 생각이다.<BR>
 <BR>
 도움이 된 곳<BR>
-<BR>
 <a href='https://devpro.kr/posts/Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-(1)/' target='_blank'>프로의 개발일지<BR>
 Github 블로그 만들기 (1)</a><BR>
-<BR>
 <a href='https://velog.io/@minji-o-j/jekyll-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0' target='_blank'>minji-o-j.log<BR>
 jekyll 오류 해결 (부제: github 블로그 만들기)</a>
